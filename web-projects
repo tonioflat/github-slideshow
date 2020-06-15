@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My test page</title>
+  </head>
+  <body>
+    <h1>El mundo de CircoLar</h1>
+    <img src="image/circolar-imgen" alt="My test image">
+    <p>Descubre tus destrezas con los equilibrios de Circolar</p>
+       
+       <ul>
+         <li>parada de manos</li>
+         <li>cuerda floja</li>
+         <li>rola bola</li>
+         <li>monociclo</li>
+       </ul>
+        <p>puedes preguntar tambien sobre circo integral</p>
+  <a href="https://circo.lar.com/principal">Habilidades del circo</a>
+  </body>
+</html> 
